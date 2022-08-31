@@ -15,6 +15,6 @@ int rysujChoinke(int n) {
 
 int main() {
     rysujChoinke(7);
-    printf("Hello, World!\n");
+    printf("Hello!\n");
     return 0;
 }
